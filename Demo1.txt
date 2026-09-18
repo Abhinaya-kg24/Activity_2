@@ -1,0 +1,4 @@
+This is my first activity 
+there are 3 participants 
+one is team lead
+another two are developers
